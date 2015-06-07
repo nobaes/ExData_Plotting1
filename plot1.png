@@ -1,0 +1,4 @@
+git add plot1.png
+git commit -m 'add png file'
+git remote add origin https://github.com/nobaes/ExData_Plotting1/plot1.git
+git push -u origin master
